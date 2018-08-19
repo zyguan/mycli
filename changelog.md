@@ -23,6 +23,7 @@ Internal:
 ---------
 
 * Use fileinput (Thanks: [Dick Marinus]).
+* Update prompt toolkit (Thanks: [Jonathan Slenders], [Irina Truong], [Dick Marinus]).
 
 1.17.0:
 =======
