@@ -6,6 +6,7 @@ Features:
 
 * Display server version in welcome message (Thanks: [Irina Truong]).
 * Set `program_name` connection attribute (Thanks: [Dick Marinus]).
+* Connect using a SSH transport (Thanks: [Dick Marinus]).
 
 Bug Fixes:
 ----------
